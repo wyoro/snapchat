@@ -1,0 +1,9 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+
+.footer {
+  padding-top: 50px;
+}
